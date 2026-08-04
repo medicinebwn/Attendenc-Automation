@@ -1,5 +1,5 @@
 {
-  "name": "Enterprise Employee Attendance Admin",
+  "name": "medicine.bwn Attendence Automation",
   "description": "Enterprise HRMS Admin Portal for employee attendance, GPS verification, company dashboards, leave & holiday management, advanced reporting, and analytics.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

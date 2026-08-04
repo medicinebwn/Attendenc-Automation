@@ -73,11 +73,11 @@ export const Sidebar: React.FC<SidebarProps> = ({ currentTab, onSelectTab, mobil
           <ActiveIcon sx={{ color: '#FFFFFF', fontSize: 22 }} />
         </Box>
         <Box>
-          <Typography variant="subtitle1" sx={{ fontWeight: 800, color: '#FFFFFF', fontSize: '1rem' }}>
-            HRMS PORTAL
+          <Typography variant="subtitle1" sx={{ fontWeight: 800, color: '#FFFFFF', fontSize: '0.9rem', lineHeight: 1.2 }}>
+            medicine.bwn
           </Typography>
-          <Typography variant="caption" sx={{ color: '#94A3B8', fontWeight: 500 }}>
-            Enterprise Edition
+          <Typography variant="caption" sx={{ color: '#34D399', fontWeight: 700, fontSize: '0.72rem' }}>
+            Attendence Automation
           </Typography>
         </Box>
       </Box>
