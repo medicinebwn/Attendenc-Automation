@@ -90,10 +90,10 @@ export const Header: React.FC<HeaderProps> = ({ onToggleSidebar, onOpenSearch, o
             </Box>
             <Box>
               <Typography variant="h6" sx={{ fontWeight: 800, fontSize: '1.15rem', lineHeight: 1.2, color: '#0F172A' }}>
-                Enterprise Attendance
+                PMBJK Attendance
               </Typography>
               <Typography variant="caption" sx={{ color: '#64748B', fontWeight: 500 }}>
-                HRMS Admin Portal
+                Automation Admin Portal
               </Typography>
             </Box>
           </Box>

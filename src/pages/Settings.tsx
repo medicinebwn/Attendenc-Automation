@@ -28,7 +28,7 @@ import { resetDemoData } from '../services/dataService';
 
 export const SettingsPage: React.FC = () => {
   const { user, isSupabaseLive } = useAuth();
-  const [appName, setAppName] = useState('medicine.bwn Attendence Automation');
+  const [appName, setAppName] = useState('PMBJK Attendance Automation');
   const [savedMsg, setSavedMsg] = useState('');
 
   const [supabaseUrl, setSupabaseUrl] = useState(import.meta.env.VITE_SUPABASE_URL || '');

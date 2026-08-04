@@ -96,7 +96,7 @@ export const Login: React.FC = () => {
               <BusinessIcon sx={{ color: '#FFFFFF', fontSize: 36 }} />
             </Box>
             <Typography variant="h5" sx={{ fontWeight: 800, color: '#0F172A', letterSpacing: '-0.5px' }}>
-              medicine.bwn Attendence Automation
+              PMBJK Attendance Automation
             </Typography>
             <Typography variant="body2" sx={{ color: '#64748B', mt: 0.5 }}>
               Employee Attendance & GPS Verification Admin Portal
