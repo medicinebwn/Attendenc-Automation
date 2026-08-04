@@ -20,7 +20,6 @@ import {
   CalendarMonth as HolidaysIcon,
   Assessment as ReportsIcon,
   Analytics as AnalyticsIcon,
-  Settings as SettingsIcon,
   Logout as LogoutIcon,
   CheckCircle as ActiveIcon,
 } from '@mui/icons-material';
@@ -49,7 +48,6 @@ const NAV_ITEMS: NavItem[] = [
   { id: 'holidays', label: 'Holidays', icon: <HolidaysIcon /> },
   { id: 'reports', label: 'Reports', icon: <ReportsIcon /> },
   { id: 'analytics', label: 'Analytics', icon: <AnalyticsIcon /> },
-  { id: 'settings', label: 'Settings', icon: <SettingsIcon /> },
 ];
 
 export const Sidebar: React.FC<SidebarProps> = ({ currentTab, onSelectTab, mobileOpen, onMobileClose }) => {
